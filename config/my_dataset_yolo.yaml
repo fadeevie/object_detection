@@ -1,0 +1,7 @@
+names:
+- window
+nc: 1
+path: data\out/my_dataset_yolo
+test: images\test
+train: images\train
+val: images\val

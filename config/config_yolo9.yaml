@@ -1,0 +1,6 @@
+pretrained_model: yolov9c.pt  # Путь к предобученной модели
+dataset_yaml: "./config/my_dataset_yolo.yaml"  # Путь к YAML-файлу с описанием датасета
+dataset_url: https://drive.google.com/drive/folders/1fzEL3dfwFDcfulWE_QWPlft_edhzXs8e?usp=drive_link  
+epochs: 100  # Количество эпох обучения
+imgsz: 640  # Размер изображения для обучения
+output_dir: ./checkpoints/  
