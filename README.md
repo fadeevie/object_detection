@@ -26,7 +26,7 @@
 ### **Клонирование репозитория**
 После создания репозитория выполните команду:
 ```bash
-git clone https://github.com/fadeevie/course_proj.git
+git clone https://github.com/fadeevie/object_detection.git
 cd course_proj
 
 ### **Создание Docker-образа**
